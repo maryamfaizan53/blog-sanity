@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 const category = {
 	name: "category",
 	title: "Category",
