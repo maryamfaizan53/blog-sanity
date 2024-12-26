@@ -1,3 +1,4 @@
+ 
 import { Blog } from "@/app/types/blog";
 import Link from "next/link";
 import React from "react";
