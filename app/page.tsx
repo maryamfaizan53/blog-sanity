@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import { getPosts } from "../sanity/sanity-utils";
+import { getPosts } from "./sanity/sanity-utils";
 import BlogItem from "@/app/components/Blog";
 
 export default async function Home() {

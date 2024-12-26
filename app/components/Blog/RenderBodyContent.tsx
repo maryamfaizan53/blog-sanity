@@ -1,5 +1,5 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
-import config from "../../../sanity/config/client-config";
+import config from "../../sanity/config/client-config";
 import { Blog } from "@/app/types/blog";
 import { PortableText } from "@portabletext/react";
 import { getImageDimensions } from "@sanity/asset-utils";

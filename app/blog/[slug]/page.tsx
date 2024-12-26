@@ -1,6 +1,6 @@
 /* eslint-disable @typescript-eslint/no-explicit-any */
 import React from "react";
-import { getPostBySlug } from "@/sanity/sanity-utils";
+import { getPostBySlug } from "@/app/sanity/sanity-utils";
 import RenderBodyContent from "@/app/components/Blog/RenderBodyContent";
 
 const SingleBlogPage = async ({ params }: { params: any }) => {
